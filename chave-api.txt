@@ -1,0 +1,5 @@
+AIzaSyBdEo-6c3WMT-E7ZD5LXoV3shWdJDEp4KA
+juniorguaracho
+hJPfyDcR1h1NwY7D
+
+mongodb+srv://juniorguaracho:hJPfyDcR1h1NwY7D@cluster0.snbvs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
